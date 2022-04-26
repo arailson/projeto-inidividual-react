@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projeto-react/static/css/main.acc7985f.css",
-    "main.js": "/projeto-react/static/js/main.2aabe7cb.js",
-    "static/media/logoCerto.png": "/projeto-react/static/media/logoCerto.45b2cc5cfad4e272d457.png",
-    "static/media/erraado.png": "/projeto-react/static/media/erraado.d37bb04f993053371080.png",
-    "index.html": "/projeto-react/index.html",
-    "main.acc7985f.css.map": "/projeto-react/static/css/main.acc7985f.css.map",
-    "main.2aabe7cb.js.map": "/projeto-react/static/js/main.2aabe7cb.js.map"
+    "main.css": "/projeto-individual-react/static/css/main.acc7985f.css",
+    "main.js": "/projeto-individual-react/static/js/main.b08955b1.js",
+    "static/media/logoCerto.png": "/projeto-individual-react/static/media/logoCerto.45b2cc5cfad4e272d457.png",
+    "static/media/erraado.png": "/projeto-individual-react/static/media/erraado.d37bb04f993053371080.png",
+    "index.html": "/projeto-individual-react/index.html",
+    "main.acc7985f.css.map": "/projeto-individual-react/static/css/main.acc7985f.css.map",
+    "main.b08955b1.js.map": "/projeto-individual-react/static/js/main.b08955b1.js.map"
   },
   "entrypoints": [
     "static/css/main.acc7985f.css",
-    "static/js/main.2aabe7cb.js"
+    "static/js/main.b08955b1.js"
   ]
 }
