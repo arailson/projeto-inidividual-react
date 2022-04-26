@@ -35,16 +35,73 @@
 .posicionamentoItens h4{
     font-size: 30px;
 }
+<<<<<<< HEAD
+=======
+.posicionamentoItens button{
+    background-color: var(--light-theme);
+    cursor: pointer;
+    font-size: 24px;
+    color: var(--color);
+    transition: all 0.3s;
+    position: relative;
+  
+    text-align: center;
+    overflow: hidden;
+  
+    border-radius: 5px;
+    box-shadow: 0 6px 30px -10px rgba(#CCCCCC, 1);
+     
+}
+.posicionamentoItens button:hover{
+    transform: translateX(5px) translateY(-7px);
+    background-color: green;
+}
+
+>>>>>>> develop
 .classModal{
     display: none;
     flex-direction: column;
     align-items: center;
+<<<<<<< HEAD
     justify-content: center;
     background-color: wheat;
     position: fixed;
     top: 50%;
+=======
+    justify-content: space-evenly;
+    background-color: #262222;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    position: fixed;
+    top: 30%;
+>>>>>>> develop
     width: 40%;
     height: 30%;
     margin-left: 32%;
     margin-top: -25px;
+<<<<<<< HEAD
+=======
+    z-index: 1;
+}
+.classModal strong{
+    color: yellow;
+}
+.classModal span{
+    font-size: 23px;
+}
+.itemModal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#overlay{
+    display: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+>>>>>>> develop
 }
